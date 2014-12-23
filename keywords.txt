@@ -1,0 +1,18 @@
+## Keywords file for sntax coloring for "lm35library"
+
+#######################################
+
+# Datatypes (KEYWORD1)
+
+#######################################
+LM35	KEYWORD1
+
+
+#######################################
+
+# Methods and functions (KEYWORD2)
+
+#######################################
+begin	KEYWORD2
+lm35read	KEYWORD2
+
