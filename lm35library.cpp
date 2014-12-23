@@ -1,7 +1,6 @@
 #include "lm35library.h" 
 #include <Arduino.h>
 
-//const byte LED_PIN = 13; //use the LED @ Arduino pin 13
 // déclaration des variables globales de classe
 // -- diviseur de base
 float divider = 0.48828125 ;
