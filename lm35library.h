@@ -2,7 +2,7 @@
 #define LM35LIBRARY_H
 
 // Obligatoire
-#include <WProgram.h> 
+#include <Arduino.h> 
 
 class LM35 {
 public:
