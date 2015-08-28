@@ -1,4 +1,4 @@
-## Keywords file for sntax coloring for "lm35library"
+## Keywords file for syntax coloring for "lm35library"
 
 #######################################
 
